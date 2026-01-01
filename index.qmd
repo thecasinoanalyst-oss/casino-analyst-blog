@@ -1,6 +1,6 @@
 ---
 title: "The Casino Analyst"
-subtitle: "Notes on data analytics and CRM for the casino industry"
+subtitle: "Signals, systems, and decision-making in the modern casino industry"
 listing:
   contents: posts
   feed: true
