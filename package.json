@@ -1,0 +1,11 @@
+{
+  "name": "casino-analyst-blog",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "quarto render"
+  },
+  "devDependencies": {
+    "quarto": "^1.0.0"
+  }
+}
+
