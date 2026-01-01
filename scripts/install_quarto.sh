@@ -13,3 +13,7 @@ export PATH="$(pwd)/quarto-1.6.39-linux-amd64/bin:$PATH"
 echo "Quarto installed successfully!"
 quarto --version
 
+echo "Rendering site..."
+quarto render
+
+echo "Build complete!"
