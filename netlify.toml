@@ -1,0 +1,13 @@
+[build]
+  command = "quarto render"
+  publish = "_site"
+
+[context.production.environment]
+  QUARTO_VERSION = "1.6.39"
+
+[build.environment]
+  QUARTO_VERSION = "1.6.39"
+
+[[plugins]]
+  package = "@netlify/plugin-quarto"
+
