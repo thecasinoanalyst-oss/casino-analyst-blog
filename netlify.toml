@@ -9,5 +9,4 @@
   QUARTO_VERSION = "1.6.39"
 
 [[plugins]]
-  package = "@netlify/plugin-quarto"
-
+  package = "netlify-plugin-quarto"
