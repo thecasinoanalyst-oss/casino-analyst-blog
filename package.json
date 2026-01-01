@@ -1,7 +1,0 @@
-{
-  "name": "casino-analyst-blog",
-  "version": "1.0.0",
-  "devDependencies": {
-    "netlify-plugin-quarto": "^0.0.8"
-  }
-}
