@@ -8,9 +8,9 @@ echo "Extracting Quarto..."
 tar -xzf quarto-1.6.39-linux-amd64.tar.gz
 
 echo "Quarto installed successfully!"
-./quarto-1.6.39-linux-amd64/bin/quarto --version
+./quarto-1.6.39/bin/quarto --version
 
 echo "Rendering site..."
-./quarto-1.6.39-linux-amd64/bin/quarto render
+./quarto-1.6.39/bin/quarto render
 
 echo "Build complete!"
