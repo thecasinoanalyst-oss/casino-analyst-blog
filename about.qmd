@@ -15,4 +15,6 @@ about:
       href: https://github.com
 ---
 
-I am The Casino Analyst. I write about data, statistics, and probability in the context of gambling and casinos.
+My background sits squarely in applied decision-making: turning messy, real-world data into clear signals that leaders can actually use. I spend most of my time thinking about how systems behave over time, where incentives break, and why well-intentioned strategies so often produce unintended outcomes. Numbers matter, but stories, psychology, and context matter just as much.
+
+This space is a notebook for that work. You’ll find ideas on customer behavior, measurement, forecasting, and competitive dynamics, alongside reflections on design, technology, and how organizations convince themselves they understand reality when they often don’t. The goal isn’t polish or thought leadership for its own sake. It’s to think in public, pressure-test assumptions, and get a little closer to what’s actually going on.
