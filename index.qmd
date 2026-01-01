@@ -1,6 +1,6 @@
 ---
 title: "The Casino Analyst"
-subtitle: "Notes on data, probability, and the house edge"
+subtitle: "Notes on data analytics and CRM for the casino industry"
 listing:
   contents: posts
   feed: true
