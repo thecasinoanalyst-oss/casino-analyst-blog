@@ -7,13 +7,10 @@ curl -LO https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.39/quar
 echo "Extracting Quarto..."
 tar -xzf quarto-1.6.39-linux-amd64.tar.gz
 
-echo "Setting up Quarto PATH..."
-export PATH="$(pwd)/quarto-1.6.39-linux-amd64/bin:$PATH"
-
 echo "Quarto installed successfully!"
-quarto --version
+./quarto-1.6.39-linux-amd64/bin/quarto --version
 
 echo "Rendering site..."
-quarto render
+./quarto-1.6.39-linux-amd64/bin/quarto render
 
 echo "Build complete!"
