@@ -4,7 +4,7 @@ description: "Why the annual budgeting ritual is often a work of fiction, and ho
 author: "The Casino Analyst"
 date: "2026-01-01"
 categories: [Strategy, Finance, Management]
-image: ""
+image: "budget.jpg"
 ---
 
 The annual budgeting season is truly a ritual of fiction.
