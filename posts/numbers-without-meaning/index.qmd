@@ -7,11 +7,9 @@ categories: [Strategy, Finance, Management]
 image: ""
 ---
 
-The annual budgeting season is a ritual of fiction.
+The annual budgeting season is truly a ritual of fiction.
 
-Every year, casino executives, GMs, and finance leaders engage in a similar brand of next-year budgeting. Some send worksheets to department heads, who return them with inflated expense projections or low-balled revenue targets (the age-old art of sandbagging); inputs that are eventually changed to match aggressive goal setting. Others simply have the budget dictated from the top down. Regardless of the approach, the result is a final EBITDA target that lacks genuine buy-in from the operational teams responsible for delivering it.
-
-These figures are pitched to the board as concrete commitments, yet they remain arbitrary numbers divorced from operational reality.
+Every year, we play the same budgeting game. It typically starts one of two ways: either we endure the 'bottom-up' charade, where department heads sandbag their inputs only to have them overridden by aggressive corporate targets, or we suffer the 'top-down' decree, where the C-suite simply hands down a number. The path doesn't matter because the destination is the same: an arbitrary EBITDA target that operational teams don't believe in and didn't really sign up for. And these figures are pitched to the board as concrete commitments, yet they remain arbitrary numbers divorced from operational reality.
 
 Rarely do leaders discuss the operational reality of achieving these targets, largely because the process prioritizes financial predictability over strategic depth. While intended to ensure fiscal discipline, the exercise has morphed into a performative ritual designed to signal ambition rather than chart a viable path for growth. A finance team will spend months cementing these figures into a static spreadsheet, yet by the time the ink is dry, everything has changed. The budget becomes a "window to the past" rather than a navigational tool for the future.
 
