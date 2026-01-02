@@ -11,19 +11,19 @@ The annual budgeting season is truly a ritual of fiction.
 
 Every year, we play the same budgeting game. It typically starts one of two ways: either we endure the 'bottom-up' charade, where department heads sandbag their inputs only to have them overridden by aggressive corporate targets, or we suffer the 'top-down' decree, where the C-suite simply hands down a number. The path doesn't matter because the destination is the same: an arbitrary EBITDA target that operational teams don't believe in and didn't really sign up for. And these figures are pitched to the board as concrete commitments, yet they remain arbitrary numbers divorced from operational reality.
 
-Rarely do leaders discuss the operational reality of achieving these targets, largely because the process prioritizes financial predictability over strategic depth. While intended to ensure fiscal discipline, the exercise has morphed into a performative ritual designed to signal ambition rather than chart a viable path for growth. A finance team will spend months cementing these figures into a static spreadsheet, yet by the time the ink is dry, everything has changed. The budget becomes a "window to the past" rather than a navigational tool for the future.
+Rarely do leaders discuss how they'll be achieving these targets, largely because the process prioritizes financial predictability over strategic depth. While intended to ensure fiscal discipline, the exercise has morphed into a performative action designed to signal ambition rather than chart a viable path for growth. A finance team will spend months cementing these figures into a static spreadsheet, yet by the time the ink is dry, everything has changed. The budget becomes a "window to the past" rather than a navigational tool for the future.
 
-We are simply moving numbers around. We create targets that offer false certainty while distracting us from real growth opportunities.
+We are simply moving numbers around without meaning. We create targets that offer false certainty while distracting us from real growth opportunities.
 
-While this was once acceptable business practice, it persists as a pervasive, outdated anchor in our industry, particularly in Brick & Mortar (B&M) casinos. If we are to thrive against an expanding online space, we must dismantle the illusion that we can predict the future of the casino floor through a linear, annual spreadsheet. We must adopt a dynamic operating model—one that allows for mistakes, experiments, and the opportunity to find real growth.
+While this was once acceptable business practice, it persists as a pervasive, outdated anchor in our industry, particularly in Brick & Mortar (B&M) casinos. If we are to thrive against an expanding online space, we must dismantle the illusion that we can predict the future through a linear, annual spreadsheet. We must adopt a dynamic operating model—one that allows for mistakes, experiments, and the opportunity to find real growth.
 
 ## The Culture of Rigid Budgeting
 
-Despite the unique nature of B&M casinos, the industry remains inexplicably fixated on the "Annual Budget" and managing to a rigid number. The result is that analytics transforms into a culture of forensic "variance analysis." We scramble to explain why we missed the number, ignoring that the 'how'—the strategic roadmap to achieve it—was missing from day one.
+Despite the unique nature of B&M casinos, the industry remains inexplicably fixated on the "Annual Budget" and managing to a rigid number. This trannsforms into a culture of forensic "variance analysis." We scramble to explain why we missed the number, ignoring that the 'how'—the strategic roadmap to achieve it—was missing from day one.
 
 We compound this error by constantly comparing daily results to like-days from the previous year. Every operator knows the pain of that random Tuesday morning email, agonizing over how to explain why slots were down 4% on a rainy day compared to a sunny day last year. Was it the weather? A promotion? A late mail piece?
 
-We search for operational failures in data that is often just showing random variation. These windows of variance are effectively noise, yet we treat them as signals, distracting us from the bigger trends occurring in our business.
+We search for operational failures in data that is often just random variation. These windows of variance are effectively noise, yet we treat them as signals, distracting us from the bigger trends occurring in our business.
 
 We become so narrow in our view that we inadvertently create nothing but "discovery killers" in our strategic frameworks. We constantly prioritize optimizing extraction over optimizing engagement. We are terrified of building real, meaningful value.
 
